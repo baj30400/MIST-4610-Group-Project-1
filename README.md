@@ -6,7 +6,7 @@
 2) Andy Kim @Andykim2003
 3) Braden Johnson @baj30400
 4) Jake Page @jtp38938
-5) Justin Hozman @jch69018
+5) Justin Hozman @justinhozman
 ## Problem Description
 The problem scenario we are modeling is for an NBA organization. Player is a central piece that connects to many different entities in the data model. As players are paid to play games they create injury reports, contracts, and have statistics for every game they play in. The organization has many staff members who receive contracts just as players do to run the behind the scenes of the organization. The organization is also centralized around fans who are supporting the organization financially. Fans purchase merchandise as well as tickets in order to attend games. Our group wants to model the relationships between the different entities and input data for the attributes. We are creating queries on the data to receive beneficial information about the organization and discover optimal performance. 
 ## Data Model
