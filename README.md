@@ -7,3 +7,9 @@
 3) Braden Johnson @baj30400
 4) Jake Page @jtp38938
 5) Justin Hozman @
+## Problem Description
+## Data Model
+## Data Dictionary
+## Queries
+## Database Information
+Name of the Database: ns_F2329704Group7
