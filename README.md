@@ -8,6 +8,7 @@
 4) Jake Page @jtp38938
 5) Justin Hozman @jch69018
 ## Problem Description
+Pretend you are the owner/operator of a NBA team needing to build a relational database. You hired some students from the MIST 4610 class at the University of Georgia to create the database for you. They need to know more about your organization to identify 12-15 entities, attributes, and relationships are important for you. Start by describing your business as a real client.
 ## Data Model
 Our data model is based on an NBA organization. The player entity represents the players on the team and includes information such as their position, height, and weight. Players get injured from time to time and can have multiple injuries over the course of their career. The injury report entity details the type of injury and the date of the injury as well as when the player is expected to recover. Players can play in many games and games are played by multiple players. Therefore an associative table is created which is PlayerGameStatistics. The associative table includes a player's statistics for a game which are statistics such as points, assists, rebounds, blocks and more. The game entity includes the opponent, venue, and score. 
 
