@@ -9,6 +9,9 @@
 5) Justin Hozman @jch69018
 ## Problem Description
 ## Data Model
+<img width="639" alt="Screenshot 2023-11-03 at 2 07 57 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149821533/4b603184-f859-4ff1-b9a9-9b9ae72c3771">
+
+
 ## Data Dictionary
 ## Queries
 Query 1
