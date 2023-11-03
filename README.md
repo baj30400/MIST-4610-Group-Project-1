@@ -22,6 +22,20 @@ Fans also support the organization by attending games. Games are attended by man
 
 
 ## Data Dictionary
+
+<img width="755" alt="Screenshot 2023-11-03 at 2 10 23 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149821533/c062e977-dbaf-4f9c-9df7-0a522478e6a9">
+
+<img width="745" alt="Screenshot 2023-11-03 at 2 11 23 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149821533/3c1c8c5a-12f1-4173-a27a-72489aa8e4e3">
+
+<img width="775" alt="Screenshot 2023-11-03 at 2 11 50 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149821533/51bf02cf-a55c-4c95-88a4-9b3555d5fa93">
+
+<img width="754" alt="Screenshot 2023-11-03 at 2 12 53 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149821533/535bbc56-e953-405b-8ca2-b6908dc2b62a">
+
+<img width="759" alt="Screenshot 2023-11-03 at 2 13 13 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149821533/1a77ae7b-198d-4050-a2d2-e518e97d31d1">
+
+
+
+
 ## Queries
 Query 1
 
