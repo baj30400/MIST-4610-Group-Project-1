@@ -37,19 +37,19 @@ Fans also support the organization by attending games. Games are attended by man
 
 
 ## Queries
-- 1. Query 1 lists the full name of each fan and the total amount of money that each fan has spent on mechandise.
+- Query 1 lists the full name of each fan and the total amount of money that each fan has spent on mechandise.
   - <img width="809" alt="Screenshot 2023-11-03 at 2 12 57 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/fc3889f5-c8c7-4ebb-a374-404fa339c39e">
   - Query 1 allows for the team to see how much money fans are contributing to their merchandise sales. This gives the executives a grasp as to who they could market more toward, if they're hitting target revenue goals, and they could use the results to get the average amount spent per fan. Moreover, the team could use this to identify who their top spenders are and possibly reward them.
 
-- 2. Query 2 states the average price of a ticket for each ticket selling company and their own website's tickets, ordered from most expensive to lease expensive.
+- Query 2 states the average price of a ticket for each ticket selling company and their own website's tickets, ordered from most expensive to lease expensive.
   - <img width="661" alt="Screenshot 2023-11-03 at 2 17 55 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/c983a7ad-9940-4dfc-a21f-ab7619f9fb76">
   - Query 2 allows the team to compare each ticket purchasing method to see who provides a bargain and who overprices the tickets. They can also use this data to see if the average fan is better off purchasing tickets from the team website or from the offshoot ticket companies.
 
-- 3. Query 3 lists each player's name and the most points that they have ever scored, ordered from most to least amount of points.
+- Query 3 lists each player's name and the most points that they have ever scored, ordered from most to least amount of points.
   - <img width="540" alt="Screenshot 2023-11-03 at 2 20 08 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/263a8e35-a0ac-4022-b529-fdb26cb3ab35">
   - Query 3 allows the team to get a guage of who has ever had a high scoring game and who has not. This means that the team can see who has the potential to have a great game on any given night. It is important to see career highs because it means that the player has the capabilites to produce similar results and can work toward scoring high amounts of points consistently.
 
-- 4. Query 4 lists each player on the roster that has never been on the injured report.
+- Query 4 lists each player on the roster that has never been on the injured report.
   - <img width="827" alt="Screenshot 2023-11-03 at 2 23 05 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/ad4b2502-5991-49f0-bc06-b991004d3c0d">
   - It is important that basketball players remain healthy throughout their career. Having players on the team that have never been injured before provides a huge advantage to team because these players can be considered extremely reliable. Players need to be healthy to contribute to their team's success in the regualr season and especially the playoffs.
 
@@ -67,15 +67,15 @@ Fans also support the organization by attending games. Games are attended by man
 
 - Query 8 shows the players, their position, and shooting percentages only for players that are point guards (PGs) or shooting guards (SGs) that have also taken more than 8 shots.
   - <img width="622" alt="Screenshot 2023-11-03 at 2 32 01 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/52ca513c-e487-4109-a584-2cf0f3bfcea6">
-  -
+  - It is important for teams to know both the standard field goal and three point percentages for players as it is indicative of the value that they bring to the team. This is especially true for guards because they typically rely on shooting the ball from farther from the basket compared to the bigger players near the basket. These shots are much more difficult so if a guard has high percentages, it would be very advantageous for the team to keep that player.
 
-- Query 9
+- Query 9 lists the emails of fans who had their ticket purchase fail along with the price of the ticket and the date the game is supposed to be played on.
   - <img width="622" alt="Screenshot 2023-11-03 at 2 32 55 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/89ff9db7-828f-4af4-983b-d4468e931ce8">
-  -
+  - Having this data is very important from a customer service perspective because a fan deserves their money back if they are being restricted from going to the game. This can happen for a multitude of reasons but it is essential for teams to get the money that the fan spent on a ticket back to them as soon as possible to keep them happy.
 
-- Query 10
+- Query 10 lists ever player and the conference of the college that they attended grouped by two large conference and then the remaining conferences as one group.
   - <img width="621" alt="Screenshot 2023-11-03 at 2 39 11 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/b25ca164-d4b0-4e9d-8a13-bed4667846e9">
-  -
+  - The SEC and ACC are two powerful basketball conference that have historically produced a lot of high level basketball talent. It can be beneficial for a team to know where their players came from because they can use the conference that they come from as a factor. If the team has a lot of good players from the SEC, it could be a good sign that the competition level in the SEC translates to good professional talent so the team can acquire more players from there.
 
 ## Database Information
 - Name of the Database: ns_F2329704Group7
