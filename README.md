@@ -37,12 +37,12 @@ Fans also support the organization by attending games. Games are attended by man
 
 
 ## Queries
-- Query 1
+- 1. Query 1 lists the full name of each fan and the total amount of money that each fan has spent on mechandise.
   - <img width="809" alt="Screenshot 2023-11-03 at 2 12 57 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/fc3889f5-c8c7-4ebb-a374-404fa339c39e">
-  - Query 1 
-- Query 2
+  - Query 1 allows for the team to see how much money fans are contributing to their merchandise sales. This gives the executives a grasp as to who they could market more toward, if they're hitting target revenue goals, and they could use the results to get the average amount spent per fan. Moreover, the team could use this to identify who their top spenders are and possibly reward them.
+- 2. Query 2 states the average price of a ticket for each ticket selling company and their own website's tickets, ordered from most expensive to lease expensive.
   - <img width="661" alt="Screenshot 2023-11-03 at 2 17 55 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/c983a7ad-9940-4dfc-a21f-ab7619f9fb76">
-  -
+  - Query 2 allows the team to compare each ticket purchasing method to see who provides a bargain and who overprices the tickets. They can also use this data to see if the average fan is better off purchasing tickets from the team website or from the offshoot ticket companies.
 - Query 3
   - <img width="540" alt="Screenshot 2023-11-03 at 2 20 08 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/263a8e35-a0ac-4022-b529-fdb26cb3ab35">
   -
