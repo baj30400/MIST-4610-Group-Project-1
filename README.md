@@ -37,6 +37,10 @@ Fans also support the organization by attending games. Games are attended by man
 
 
 ## Queries
+
+<img width="737" alt="Screenshot 2023-11-03 at 5 23 37 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/131297312/6bc73784-f108-486d-a25f-4a5f4f06669e">
+
+
 - Query 1 lists the full name of each fan and the total amount of money that each fan has spent on merchandise.
   - <img width="809" alt="Screenshot 2023-11-03 at 2 12 57 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/fc3889f5-c8c7-4ebb-a374-404fa339c39e">
   - Query 1 allows for the team to see how much money fans are contributing to their merchandise sales. This gives the executives a grasp as to who they could market more toward, if they're hitting target revenue goals, and they could also use the results to get the average amount spent per fan. Moreover, the team could use this to identify who their top spenders are and possibly reward them.
