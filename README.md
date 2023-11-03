@@ -40,30 +40,39 @@ Fans also support the organization by attending games. Games are attended by man
 - 1. Query 1 lists the full name of each fan and the total amount of money that each fan has spent on mechandise.
   - <img width="809" alt="Screenshot 2023-11-03 at 2 12 57 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/fc3889f5-c8c7-4ebb-a374-404fa339c39e">
   - Query 1 allows for the team to see how much money fans are contributing to their merchandise sales. This gives the executives a grasp as to who they could market more toward, if they're hitting target revenue goals, and they could use the results to get the average amount spent per fan. Moreover, the team could use this to identify who their top spenders are and possibly reward them.
+
 - 2. Query 2 states the average price of a ticket for each ticket selling company and their own website's tickets, ordered from most expensive to lease expensive.
   - <img width="661" alt="Screenshot 2023-11-03 at 2 17 55 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/c983a7ad-9940-4dfc-a21f-ab7619f9fb76">
   - Query 2 allows the team to compare each ticket purchasing method to see who provides a bargain and who overprices the tickets. They can also use this data to see if the average fan is better off purchasing tickets from the team website or from the offshoot ticket companies.
-- Query 3
+
+- 3. Query 3 lists each player's name and the most points that they have ever scored, ordered from most to least amount of points.
   - <img width="540" alt="Screenshot 2023-11-03 at 2 20 08 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/263a8e35-a0ac-4022-b529-fdb26cb3ab35">
-  -
-- Query 4
+  - Query 3 allows the team to get a guage of who has ever had a high scoring game and who has not. This means that the team can see who has the potential to have a great game on any given night. It is important to see career highs because it means that the player has the capabilites to produce similar results and can work toward scoring high amounts of points consistently.
+
+- 4. Query 4 lists each player on the roster that has never been on the injured report.
   - <img width="827" alt="Screenshot 2023-11-03 at 2 23 05 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/ad4b2502-5991-49f0-bc06-b991004d3c0d">
-  -
-- Query 5
+  - It is important that basketball players remain healthy throughout their career. Having players on the team that have never been injured before provides a huge advantage to team because these players can be considered extremely reliable. Players need to be healthy to contribute to their team's success in the regualr season and especially the playoffs.
+
+- Query 5 lists the total amount of money that each player has generated through merchandise products that represent them.
   - <img width="1440" alt="Screenshot 2023-11-03 at 2 35 52 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/39b06be2-82b3-4980-ae0a-cbfb50d34019">
-  -
-- Query 6
+  - It is very advantageous for teams to know who draws the most and least attention through merchandise sales because it helps the team make more money. This can allow the team to try to boost merchandise sales of the players that have less sales by marketing and showcasing those players on things like commercials and billboards. 
+
+- Query 6 lists the point guards (PGs) that make more money than the average point guard.
   - <img width="1205" alt="Screenshot 2023-11-03 at 2 31 24 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/bd0d7001-7d5e-4357-b850-412b9f36dd0c">
-  -
-- Query 7
+  - Teams need to see which of their point guards are getting paid more than average for a few reasons. Point guards are very important because they are typically leaders and so called "floor generals" meaning they typically have the ball and inform other teammates where to go. If a certain point guard is making an above average salary, they should be creating a lot of value on the court through personal statistics and team wins.
+
+- Query 7 shows the names and salaries of players who have had career ending injuries.
   -  <img width="625" alt="Screenshot 2023-11-03 at 2 43 58 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/28196e60-d631-445b-937f-2465ab2ccd2e">
-  -
-- Query 8
+  - Career ending injuries are detrimental to both a team and a player because they can never create value as a player ever again. Teams need to know exactly how much these players are still being paid after a career ending injury because they are going to have to develop a plan to either get rid of the player and their salary, or find a way for the player to create value off the court.
+
+- Query 8 shows the players, their position, and shooting percentages only for players that are point guards (PGs) or shooting guards (SGs) that have also taken more than 8 shots.
   - <img width="622" alt="Screenshot 2023-11-03 at 2 32 01 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/52ca513c-e487-4109-a584-2cf0f3bfcea6">
   -
+
 - Query 9
   - <img width="622" alt="Screenshot 2023-11-03 at 2 32 55 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/89ff9db7-828f-4af4-983b-d4468e931ce8">
   -
+
 - Query 10
   - <img width="621" alt="Screenshot 2023-11-03 at 2 39 11 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/b25ca164-d4b0-4e9d-8a13-bed4667846e9">
   -
