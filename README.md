@@ -50,19 +50,19 @@ Fans also support the organization by attending games. Games are attended by man
   - <img width="827" alt="Screenshot 2023-11-03 at 2 23 05 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/ad4b2502-5991-49f0-bc06-b991004d3c0d">
   -
 - Query 5
-  -
+  - <img width="627" alt="Screenshot 2023-11-03 at 2 30 32 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/b624e4e2-7031-4abc-9e07-0bb19af3f43c">
   -
 - Query 6
-  -
+  - <img width="1205" alt="Screenshot 2023-11-03 at 2 31 24 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/bd0d7001-7d5e-4357-b850-412b9f36dd0c">
   -
 - Query 7
-  -
+  - <img width="622" alt="Screenshot 2023-11-03 at 2 32 01 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/52ca513c-e487-4109-a584-2cf0f3bfcea6">
   -
 - Query 8
-  -
+  - <img width="622" alt="Screenshot 2023-11-03 at 2 32 55 PM" src="https://github.com/baj30400/MIST-4610-Group-Project-1/assets/149818793/89ff9db7-828f-4af4-983b-d4468e931ce8">
   -
 - Query 9
-  -
+  - 
   -
 - Query 10
   -
