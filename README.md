@@ -6,7 +6,7 @@
 2) Andy Kim @Andykim2003
 3) Braden Johnson @baj30400
 4) Jake Page @jtp38938
-5) Justin Hozman @
+5) Justin Hozman @jch69018
 ## Problem Description
 ## Data Model
 ## Data Dictionary
